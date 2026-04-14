@@ -4,7 +4,7 @@ import HistoryPage from './pages/HistoryPage';
 
 function App() {
   return (
-    <Router basename="/reporte_diario">
+    <Router basename="/dailyrep">
       <nav style={{ padding: '1rem', borderBottom: '1px solid #ccc' }}>
         <Link to="/" style={{ marginRight: '1rem' }}>📅 Registro Diario</Link>
         <Link to="/historial">📊 Histórico</Link>
