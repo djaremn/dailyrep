@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 import mkcert from 'vite-plugin-mkcert'
 
 export default defineConfig({
-  base: '/reporte_diario/',
+  base: '/dailyrep/',
   server: {
     host: true, // expone en la red local (acceso desde celular)
   },
