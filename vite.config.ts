@@ -29,7 +29,7 @@ export default defineConfig({
         theme_color: '#1a3a5c',
         background_color: '#1a3a5c',
         display: 'standalone',
-        start_url: '/reporte_diario/',
+        start_url: '/dailyrep/',
         orientation: 'portrait',
         categories: ['utilities', 'productivity'],
         icons: [
