@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fondo azul oscuro (parque solar/noche) -->
+  <rect width="512" height="512" rx="96" fill="#1a3a5c"/>
+  <!-- Sol -->
+  <circle cx="380" cy="120" r="52" fill="#f5a623"/>
+  <line x1="380" y1="48" x2="380" y2="20" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <line x1="380" y1="192" x2="380" y2="220" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <line x1="308" y1="120" x2="280" y2="120" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <line x1="452" y1="120" x2="480" y2="120" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <line x1="329" y1="71" x2="309" y2="51" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <line x1="431" y1="169" x2="451" y2="189" stroke="#f5a623" stroke-width="14" stroke-linecap="round"/>
+  <!-- Panel solar: 3 columnas x 2 filas -->
+  <rect x="56" y="220" width="340" height="180" rx="14" fill="#2471a3"/>
+  <!-- Rejilla horizontal -->
+  <line x1="56" y1="310" x2="396" y2="310" stroke="#1a3a5c" stroke-width="6"/>
+  <!-- Rejilla vertical -->
+  <line x1="169" y1="220" x2="169" y2="400" stroke="#1a3a5c" stroke-width="6"/>
+  <line x1="282" y1="220" x2="282" y2="400" stroke="#1a3a5c" stroke-width="6"/>
+  <!-- Reflejo en las celdas -->
+  <rect x="66" y="230" width="94" height="70" rx="6" fill="#3498db" opacity="0.4"/>
+  <rect x="179" y="230" width="94" height="70" rx="6" fill="#3498db" opacity="0.4"/>
+  <rect x="292" y="230" width="94" height="70" rx="6" fill="#3498db" opacity="0.4"/>
+  <!-- Soporte -->
+  <rect x="196" y="400" width="60" height="24" rx="4" fill="#2c6e9c"/>
+  <rect x="136" y="424" width="180" height="18" rx="9" fill="#2c6e9c"/>
+</svg>
